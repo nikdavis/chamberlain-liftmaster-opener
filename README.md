@@ -2,6 +2,8 @@
 
 This repo contains documentation of Chamberlain LiftMaster Security+ wired garage door opener. I couldn't find solid schematics / understanding online, so I thought I would document it.
 
+# Meat and potatoes
+
 See schematic image for info.
 
 There appears to be some sort of DC voltage ~20V, with some sort of pulse modulated onto it.
